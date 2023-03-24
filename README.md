@@ -15,7 +15,7 @@
 
 Как запустить тесты?
 
-1- Установите все требования: pip install -r requirements.txt
+1- Установите требования: pip install -r requirements.txt
 
 2- Загрузите Selenium WebDriver с https://chromedriver.chromium.org/downloads (выберите версию, совместимую с вашей платформой и браузером)
 
